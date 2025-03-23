@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+movie_selector/__init__.py
+movie_selector/main.py
+movie_selector.egg-info/PKG-INFO
+movie_selector.egg-info/SOURCES.txt
+movie_selector.egg-info/dependency_links.txt
+movie_selector.egg-info/entry_points.txt
+movie_selector.egg-info/requires.txt
+movie_selector.egg-info/top_level.txt
