@@ -1,2 +1,0 @@
-[console_scripts]
-movie-selector = movie_selector.main:main

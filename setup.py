@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="movie_selector",
-    version="1.0.0",
+    version="1.0.3",
     packages=find_packages(),
     install_requires=["colorama"],
     entry_points={
@@ -11,10 +11,10 @@ setup(
         ],
     },
     author="Patrick McGuire",
-    author_email="mcguirepr89@gmail.com",
     description="A CLI tool for random movie selection",
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
+    url="https://github.com/mcguirepr89/movie_selector",
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
