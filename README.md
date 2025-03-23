@@ -1,4 +1,4 @@
-# Movie Randomizer
+# Movie Selector
 
 A command-line tool for randomly selecting movies based on user input.
 
